@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/front-experimental-deploy/static/css/main.40d65a06.css",
-    "main.js": "/front-experimental-deploy/static/js/main.399861de.js",
+    "main.css": "/front-experimental-deploy/static/css/main.b0f75adb.css",
+    "main.js": "/front-experimental-deploy/static/js/main.d860d797.js",
     "static/js/787.22e3b59d.chunk.js": "/front-experimental-deploy/static/js/787.22e3b59d.chunk.js",
     "static/media/Poppins-Italic.ttf": "/front-experimental-deploy/static/media/Poppins-Italic.e373f6163127e2d469af.ttf",
     "static/media/Poppins-Light.ttf": "/front-experimental-deploy/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
@@ -10,12 +10,12 @@
     "static/media/Poppins-Bold.ttf": "/front-experimental-deploy/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
     "static/media/brand_logo.svg": "/front-experimental-deploy/static/media/brand_logo.af0aaa262440f39f9e6d7275fdf19de1.svg",
     "index.html": "/front-experimental-deploy/index.html",
-    "main.40d65a06.css.map": "/front-experimental-deploy/static/css/main.40d65a06.css.map",
-    "main.399861de.js.map": "/front-experimental-deploy/static/js/main.399861de.js.map",
+    "main.b0f75adb.css.map": "/front-experimental-deploy/static/css/main.b0f75adb.css.map",
+    "main.d860d797.js.map": "/front-experimental-deploy/static/js/main.d860d797.js.map",
     "787.22e3b59d.chunk.js.map": "/front-experimental-deploy/static/js/787.22e3b59d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40d65a06.css",
-    "static/js/main.399861de.js"
+    "static/css/main.b0f75adb.css",
+    "static/js/main.d860d797.js"
   ]
 }
