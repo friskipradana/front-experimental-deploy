@@ -1,21 +1,16 @@
 {
   "files": {
-    "main.css": "/front-experimental-deploy/static/css/main.3220ab4c.css",
-    "main.js": "/front-experimental-deploy/static/js/main.dfd74d6a.js",
+    "main.css": "/front-experimental-deploy/static/css/main.e0dcbe60.css",
+    "main.js": "/front-experimental-deploy/static/js/main.ea9b6287.js",
     "static/js/787.22e3b59d.chunk.js": "/front-experimental-deploy/static/js/787.22e3b59d.chunk.js",
-    "static/media/Poppins-Italic.ttf": "/front-experimental-deploy/static/media/Poppins-Italic.e373f6163127e2d469af.ttf",
-    "static/media/Poppins-Light.ttf": "/front-experimental-deploy/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
-    "static/media/Poppins-Regular.ttf": "/front-experimental-deploy/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
-    "static/media/Poppins-Medium.ttf": "/front-experimental-deploy/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
-    "static/media/Poppins-Bold.ttf": "/front-experimental-deploy/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
     "static/media/brand_logo.svg": "/front-experimental-deploy/static/media/brand_logo.af0aaa262440f39f9e6d7275fdf19de1.svg",
     "index.html": "/front-experimental-deploy/index.html",
-    "main.3220ab4c.css.map": "/front-experimental-deploy/static/css/main.3220ab4c.css.map",
-    "main.dfd74d6a.js.map": "/front-experimental-deploy/static/js/main.dfd74d6a.js.map",
+    "main.e0dcbe60.css.map": "/front-experimental-deploy/static/css/main.e0dcbe60.css.map",
+    "main.ea9b6287.js.map": "/front-experimental-deploy/static/js/main.ea9b6287.js.map",
     "787.22e3b59d.chunk.js.map": "/front-experimental-deploy/static/js/787.22e3b59d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3220ab4c.css",
-    "static/js/main.dfd74d6a.js"
+    "static/css/main.e0dcbe60.css",
+    "static/js/main.ea9b6287.js"
   ]
 }
