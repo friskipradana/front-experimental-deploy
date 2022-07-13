@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/front-experimental-deploy/static/css/main.bb51733c.css",
-    "main.js": "/front-experimental-deploy/static/js/main.e6264784.js",
+    "main.css": "/front-experimental-deploy/static/css/main.7e229047.css",
+    "main.js": "/front-experimental-deploy/static/js/main.c19c966b.js",
     "static/js/787.22e3b59d.chunk.js": "/front-experimental-deploy/static/js/787.22e3b59d.chunk.js",
     "static/media/brand_logo.svg": "/front-experimental-deploy/static/media/brand_logo.af0aaa262440f39f9e6d7275fdf19de1.svg",
     "index.html": "/front-experimental-deploy/index.html",
-    "static/media/icon_product.svg": "/front-experimental-deploy/static/media/icon_product.c60ed2248f45897d62f9c7908b12555d.svg",
+    "static/media/icon_product.svg": "/front-experimental-deploy/static/media/icon_product.b80a710f3426bdbf27253e393107ba35.svg",
     "static/media/icon_company.svg": "/front-experimental-deploy/static/media/icon_company.8b71f73610f9e2b9df433bb0f89bfcac.svg",
-    "main.bb51733c.css.map": "/front-experimental-deploy/static/css/main.bb51733c.css.map",
-    "main.e6264784.js.map": "/front-experimental-deploy/static/js/main.e6264784.js.map",
+    "main.7e229047.css.map": "/front-experimental-deploy/static/css/main.7e229047.css.map",
+    "main.c19c966b.js.map": "/front-experimental-deploy/static/js/main.c19c966b.js.map",
     "787.22e3b59d.chunk.js.map": "/front-experimental-deploy/static/js/787.22e3b59d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb51733c.css",
-    "static/js/main.e6264784.js"
+    "static/css/main.7e229047.css",
+    "static/js/main.c19c966b.js"
   ]
 }
