@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/front-experimental-deploy/static/css/main.ef93ee07.css",
-    "main.js": "/front-experimental-deploy/static/js/main.77c647ba.js",
+    "main.css": "/front-experimental-deploy/static/css/main.f8eac242.css",
+    "main.js": "/front-experimental-deploy/static/js/main.e3355c19.js",
     "static/js/787.22e3b59d.chunk.js": "/front-experimental-deploy/static/js/787.22e3b59d.chunk.js",
     "static/media/brand_logo.svg": "/front-experimental-deploy/static/media/brand_logo.af0aaa262440f39f9e6d7275fdf19de1.svg",
     "index.html": "/front-experimental-deploy/index.html",
     "static/media/icon_product.svg": "/front-experimental-deploy/static/media/icon_product.b80a710f3426bdbf27253e393107ba35.svg",
     "static/media/icon_company.svg": "/front-experimental-deploy/static/media/icon_company.8b71f73610f9e2b9df433bb0f89bfcac.svg",
-    "main.ef93ee07.css.map": "/front-experimental-deploy/static/css/main.ef93ee07.css.map",
-    "main.77c647ba.js.map": "/front-experimental-deploy/static/js/main.77c647ba.js.map",
+    "main.f8eac242.css.map": "/front-experimental-deploy/static/css/main.f8eac242.css.map",
+    "main.e3355c19.js.map": "/front-experimental-deploy/static/js/main.e3355c19.js.map",
     "787.22e3b59d.chunk.js.map": "/front-experimental-deploy/static/js/787.22e3b59d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef93ee07.css",
-    "static/js/main.77c647ba.js"
+    "static/css/main.f8eac242.css",
+    "static/js/main.e3355c19.js"
   ]
 }
